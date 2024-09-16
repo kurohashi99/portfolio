@@ -208,9 +208,9 @@ cursor: pointer;
     animation: cursor 0.6s infinite;
 }
 
-@keyframes cursor {
+@keyframes cursor{
     to(
-        border-left: 3px solid;
+        border-left: 3px solid #b74b4b;
     )
     
 }
@@ -218,3 +218,4 @@ cursor: pointer;
 
 
 /*ne pas oublier de faire un responsive a part solo pour adapter l'image et les texte 
+revenir a la video 15.56 sec https://www.youtube.com/watch?v=-u3vE84Wo_U
